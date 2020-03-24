@@ -1,11 +1,16 @@
 _repo: L-Art-du-brodeur_61639
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61639-h/images/cover.jpg
 creator:
   author:
     agent_name: Saint-Aubin, Charles-Germain de
     gutenberg_agent_id: '51536'
     url: http://www.gutenberg.org/2009/agents/51536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61639#L-Art-du-brodeur
 gutenberg_issued: '2020-03-19'
 gutenberg_type: Text
 identifiers:
